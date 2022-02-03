@@ -16,7 +16,7 @@ const TempBox = styled.div`
 
 const Temp = styled.h3`
     text-align: center;
-    font-weight: 500;
+    font-weight: 700;
 `
 const  CountryBox =styled.div`
     margin: 10px;
